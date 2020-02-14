@@ -1,0 +1,195 @@
+{ 
+   "name":"Wicked",
+   "contents":[ 
+      { 
+         "title":"No One Mourns The Wicked",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-no-one-mourns-the-wicked-lyrics",
+         "song_path":"/songs/657857",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Defying Gravity",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-defying-gravity-lyrics",
+         "song_path":"/songs/105865",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Finale",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-finale-lyrics",
+         "song_path":"/songs/657828",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Dear Old Shiz",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-dear-old-shiz-lyrics",
+         "song_path":"/songs/657869",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Wizard and I",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-the-wizard-and-i-lyrics",
+         "song_path":"/songs/657809",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"What Is This Feeling?",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-what-is-this-feeling-lyrics",
+         "song_path":"/songs/657847",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Something Bad",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-something-bad-lyrics",
+         "song_path":"/songs/657822",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Dancing Through Life",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-dancing-through-life-lyrics",
+         "song_path":"/songs/657560",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Popular",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-popular-lyrics",
+         "song_path":"/songs/1277518",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"I’m Not That Girl",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-im-not-that-girl-lyrics",
+         "song_path":"/songs/657566",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"I’m Not That Girl (Reprise)",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-im-not-that-girl-reprise-lyrics",
+         "song_path":"/songs/657827",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"One Short Day",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-one-short-day-lyrics",
+         "song_path":"/songs/1278375",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"A Sentimental Man",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-a-sentimental-man-lyrics",
+         "song_path":"/songs/657838",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Thank Goodness",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-thank-goodness-lyrics",
+         "song_path":"/songs/657872",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Wonderful",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-wonderful-lyrics",
+         "song_path":"/songs/1282910",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"As Long as You’re Mine",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-as-long-as-youre-mine-lyrics",
+         "song_path":"/songs/657829",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"No Good Deed",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-no-good-deed-lyrics",
+         "song_path":"/songs/657570",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"March of the Witch Hunters",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-march-of-the-witch-hunters-lyrics",
+         "song_path":"/songs/657865",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      },
+      { 
+         "title":"For Good",
+         "artist":{ 
+            "name":"Original Broadway Cast of Wicked",
+            "id":682007
+         },
+         "lyrics_path":"/Original-broadway-cast-of-wicked-for-good-lyrics",
+         "song_path":"/songs/657850",
+         "image":"https://images.genius.com/c7a13166b33dca09340d67c084da168e.1000x1000x1.jpg"
+      }
+   ]
+}
