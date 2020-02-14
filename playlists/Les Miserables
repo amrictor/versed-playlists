@@ -1,0 +1,215 @@
+{ 
+   "name":"Les Miserables",
+   "contents":[ 
+      { 
+         "title":"Prologue",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-prologue-lyrics",
+         "song_path":"/songs/357017",
+         "image":"https://images.genius.com/f1400eb8be56720f4daf126774d797a3.220x220x1.jpg"
+      },
+      { 
+         "title":"What Have I Done? (Valjean’s Soliloquy)",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-what-have-i-done-valjeans-soliloquy-lyrics",
+         "song_path":"/songs/357356",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"At the End of the Day",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-at-the-end-of-the-day-lyrics",
+         "song_path":"/songs/357560",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"I Dreamed a Dream",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-i-dreamed-a-dream-lyrics",
+         "song_path":"/songs/357562",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Who Am I?",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-who-am-i-lyrics",
+         "song_path":"/songs/357564",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Confrontation",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-confrontation-lyrics",
+         "song_path":"/songs/357569",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Castle on a Cloud",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-castle-on-a-cloud-lyrics",
+         "song_path":"/songs/362098",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Master of the House",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-master-of-the-house-lyrics",
+         "song_path":"/songs/362100",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Look Down",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-look-down-lyrics",
+         "song_path":"/songs/362105",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Stars",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-stars-lyrics",
+         "song_path":"/songs/362107",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Red and Black",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-red-and-black-lyrics",
+         "song_path":"/songs/362111",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Do You Hear The People Sing?",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-do-you-hear-the-people-sing-lyrics",
+         "song_path":"/songs/362112",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"In My Life",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-in-my-life-lyrics",
+         "song_path":"/songs/366143",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"A Heart Full of Love",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-a-heart-full-of-love-lyrics",
+         "song_path":"/songs/366147",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"One Day More",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-one-day-more-lyrics",
+         "song_path":"/songs/366149",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"A Little Fall of Rain",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-a-little-fall-of-rain-lyrics",
+         "song_path":"/songs/1645771",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Drink With Me",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-drink-with-me-lyrics",
+         "song_path":"/songs/1648282",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Bring Him Home",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-bring-him-home-lyrics",
+         "song_path":"/songs/1651344",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Javert’s Suicide",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-javerts-suicide-lyrics",
+         "song_path":"/songs/2189213",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"Empty Chairs at Empty Tables",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-empty-chairs-at-empty-tables-lyrics",
+         "song_path":"/songs/1666018",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      },
+      { 
+         "title":"On My Own",
+         "artist":{ 
+            "name":"Claude-Michel Schönberg",
+            "id":33630
+         },
+         "lyrics_path":"/Claude-michel-schonberg-on-my-own-lyrics",
+         "song_path":"/songs/2218851",
+         "image":"https://images.genius.com/0537724ec32129a6c45a375879e85b28.1000x853x1.jpg"
+      }
+   ]
+}
