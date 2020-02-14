@@ -1,0 +1,195 @@
+{ 
+   "name":"My Playlist",
+   "contents":[ 
+      { 
+         "title":"Prologue/The Day I Got Expelled",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-prologue-the-day-i-got-expelled-annotated",
+         "song_path":"/songs/3144877",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Strong",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-strong-annotated",
+         "song_path":"/songs/3144890",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Minotaur/The Weirdest Dream",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-minotaur-the-weirdest-dream-annotated",
+         "song_path":"/songs/3144897",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Another Terrible Day",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-another-terrible-day-annotated",
+         "song_path":"/songs/3144921",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Their Sign",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-their-sign-annotated",
+         "song_path":"/songs/3144943",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Put You in Your Place",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-put-you-in-your-place-annotated",
+         "song_path":"/songs/3144956",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Campfire Song",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-campfire-song-annotated",
+         "song_path":"/songs/3144981",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Oracle",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-oracle-annotated",
+         "song_path":"/songs/3144993",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Good Kid",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-good-kid-annotated",
+         "song_path":"/songs/3002976",
+         "image":"https://images.genius.com/f90d38633fd68604bc0333a392373c91.300x300x1.jpg"
+      },
+      { 
+         "title":"Killer Quest",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-killer-quest-annotated",
+         "song_path":"/songs/3145037",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Lost!",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-lost-annotated",
+         "song_path":"/songs/3145053",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"My Grand Plan",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-my-grand-plan-annotated",
+         "song_path":"/songs/3145566",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Drive",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-drive-annotated",
+         "song_path":"/songs/3146331",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Weirdest Dream (Reprise)",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-weirdest-dream-reprise-annotated",
+         "song_path":"/songs/3146349",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Tree on the Hill",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-tree-on-the-hill-annotated",
+         "song_path":"/songs/3146443",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"D.O.A.",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-doa-annotated",
+         "song_path":"/songs/3146433",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Son of Poseidon",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-son-of-poseidon-annotated",
+         "song_path":"/songs/3146562",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Last Day of Summer",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-the-last-day-of-summer-annotated",
+         "song_path":"/songs/3146365",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Bring on the Monsters",
+         "artist":{ 
+            "name":"Original Cast of The Lightning Thief Musical",
+            "id":1087216
+         },
+         "lyrics_path":"/Original-cast-of-the-lightning-thief-musical-bring-on-the-monsters-annotated",
+         "song_path":"/songs/3146492",
+         "image":"https://images.genius.com/00302218d2ef758709e2e90bd4a75745.1000x1000x1.jpg"
+      }
+   ]
+}
