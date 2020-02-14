@@ -1,0 +1,75 @@
+{ 
+   "name":"Frozen",
+   "contents":[ 
+      { 
+         "title":"Frozen Heart",
+         "artist":{ 
+            "name":"Walt Disney Records",
+            "id":32992
+         },
+         "lyrics_path":"/Walt-disney-records-frozen-heart-lyrics",
+         "song_path":"/songs/378398",
+         "image":"https://images.genius.com/85550aebf1ad966bc84f8ddefb1510c5.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Do You Want to Build a Snowman?",
+         "artist":{ 
+            "name":"Walt Disney Records",
+            "id":32992
+         },
+         "lyrics_path":"/Walt-disney-records-do-you-want-to-build-a-snowman-lyrics",
+         "song_path":"/songs/355884",
+         "image":"https://images.genius.com/85550aebf1ad966bc84f8ddefb1510c5.1000x1000x1.jpg"
+      },
+      { 
+         "title":"For the First Time in Forever",
+         "artist":{ 
+            "name":"Walt Disney Records",
+            "id":32992
+         },
+         "lyrics_path":"/Walt-disney-records-for-the-first-time-in-forever-lyrics",
+         "song_path":"/songs/353400",
+         "image":"https://images.genius.com/921032b471068573098081d5aa73b0f4.600x600x1.jpg"
+      },
+      { 
+         "title":"For the First Time in Forever (Reprise)",
+         "artist":{ 
+            "name":"Kristen Bell & Idina Menzel",
+            "id":2081920
+         },
+         "lyrics_path":"/Kristen-bell-and-idina-menzel-for-the-first-time-in-forever-reprise-lyrics",
+         "song_path":"/songs/360588",
+         "image":"https://images.genius.com/b18d7cce8c24fefcfe3dda00320ff19e.600x600x1.jpg"
+      },
+      { 
+         "title":"Love Is An Open Door",
+         "artist":{ 
+            "name":"Walt Disney Records",
+            "id":32992
+         },
+         "lyrics_path":"/Walt-disney-records-love-is-an-open-door-lyrics",
+         "song_path":"/songs/345497",
+         "image":"https://images.genius.com/85550aebf1ad966bc84f8ddefb1510c5.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Let It Go",
+         "artist":{ 
+            "name":"Idina Menzel",
+            "id":33242
+         },
+         "lyrics_path":"/Idina-menzel-let-it-go-lyrics",
+         "song_path":"/songs/352918",
+         "image":"https://images.genius.com/85550aebf1ad966bc84f8ddefb1510c5.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Reindeer(s) Are Better Than People",
+         "artist":{ 
+            "name":"Walt Disney Records",
+            "id":32992
+         },
+         "lyrics_path":"/Walt-disney-records-reindeers-are-better-than-people-lyrics",
+         "song_path":"/songs/378424",
+         "image":"https://images.genius.com/a6010ba5a7acf9357c5bc567b051b0f6.800x800x1.jpg"
+      }
+   ]
+}
