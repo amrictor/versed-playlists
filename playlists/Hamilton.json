@@ -1,0 +1,465 @@
+{ 
+   "name":"Hamilton",
+   "contents":[ 
+      { 
+         "title":"Alexander Hamilton",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-alexander-hamilton-lyrics",
+         "song_path":"/songs/2314493",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Guns and Ships",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-guns-and-ships-lyrics",
+         "song_path":"/songs/2314656",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"My Shot",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-my-shot-lyrics",
+         "song_path":"/songs/2300382",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Satisfied",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-satisfied-lyrics",
+         "song_path":"/songs/2314551",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Schuyler Sisters",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-schuyler-sisters-lyrics",
+         "song_path":"/songs/2314902",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Aaron Burr, Sir",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-aaron-burr-sir-lyrics",
+         "song_path":"/songs/2314359",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"You’ll Be Back",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-youll-be-back-lyrics",
+         "song_path":"/songs/2313909",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Burn",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-burn-lyrics",
+         "song_path":"/songs/2315135",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Helpless",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-helpless-lyrics",
+         "song_path":"/songs/2314544",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Cabinet Battle #1",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-cabinet-battle-1-lyrics",
+         "song_path":"/songs/2314473",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Non-Stop",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-non-stop-lyrics",
+         "song_path":"/songs/2314680",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Wait for It",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-wait-for-it-lyrics",
+         "song_path":"/songs/2312548",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Farmer Refuted",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-farmer-refuted-lyrics",
+         "song_path":"/songs/2306002",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Yorktown (The World Turned Upside Down)",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-yorktown-the-world-turned-upside-down-lyrics",
+         "song_path":"/songs/2314665",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Right Hand Man",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-right-hand-man-lyrics",
+         "song_path":"/songs/2315288",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Ten Duel Commandments",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-ten-duel-commandments-lyrics",
+         "song_path":"/songs/2314641",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Election of 1800",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-election-of-1800-lyrics",
+         "song_path":"/songs/2314075",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Story of Tonight (Reprise)",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-story-of-tonight-reprise-lyrics",
+         "song_path":"/songs/2315300",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Schuyler Defeated",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-schuyler-defeated-lyrics",
+         "song_path":"/songs/2315164",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Story of Tonight",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-story-of-tonight-lyrics",
+         "song_path":"/songs/2314547",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"A Winter’s Ball",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-a-winters-ball-lyrics",
+         "song_path":"/songs/2314564",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Stay Alive",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-stay-alive-lyrics",
+         "song_path":"/songs/2314638",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Stay Alive (Reprise)",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-stay-alive-reprise-lyrics",
+         "song_path":"/songs/2315133",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Meet Me Inside",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-meet-me-inside-lyrics",
+         "song_path":"/songs/2314644",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"That Would Be Enough",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-that-would-be-enough-lyrics",
+         "song_path":"/songs/2314650",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"History Has Its Eyes on You",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-history-has-its-eyes-on-you-lyrics",
+         "song_path":"/songs/2314658",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"What Comes Next?",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-what-comes-next-lyrics",
+         "song_path":"/songs/2314539",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Dear Theodosia",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-dear-theodosia-lyrics",
+         "song_path":"/songs/2314546",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"What’d I Miss",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-whatd-i-miss-lyrics",
+         "song_path":"/songs/2314682",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Cabinet Battle #2",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-cabinet-battle-2-lyrics",
+         "song_path":"/songs/2315167",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Take a Break",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-take-a-break-lyrics",
+         "song_path":"/songs/2315298",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Say No to This",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-say-no-to-this-lyrics",
+         "song_path":"/songs/2315295",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Room Where It Happens",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-room-where-it-happens-lyrics",
+         "song_path":"/songs/2315291",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Washington on Your Side",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-washington-on-your-side-lyrics",
+         "song_path":"/songs/2313802",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"One Last Time",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-one-last-time-lyrics",
+         "song_path":"/songs/2314529",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"I Know Him",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-i-know-him-lyrics",
+         "song_path":"/songs/2314536",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Adams Administration",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-adams-administration-lyrics",
+         "song_path":"/songs/2314582",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"We Know",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-we-know-lyrics",
+         "song_path":"/songs/2314622",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Hurricane",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-hurricane-lyrics",
+         "song_path":"/songs/2314627",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The Reynolds Pamphlet",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-reynolds-pamphlet-lyrics",
+         "song_path":"/songs/2315136",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Blow Us All Away",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-blow-us-all-away-lyrics",
+         "song_path":"/songs/2315134",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"It’s Quiet Uptown",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-its-quiet-uptown-lyrics",
+         "song_path":"/songs/2315113",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Your Obedient Servant",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-your-obedient-servant-lyrics",
+         "song_path":"/songs/2315106",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Best of Wives and Best of Women",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-best-of-wives-and-best-of-women-lyrics",
+         "song_path":"/songs/2312666",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"The World Was Wide Enough",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-the-world-was-wide-enough-lyrics",
+         "song_path":"/songs/2315104",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      },
+      { 
+         "title":"Who Lives, Who Dies, Who Tells Your Story",
+         "artist":{ 
+            "name":"Original Broadway Cast of Hamilton",
+            "id":572149
+         },
+         "lyrics_path":"/Original-broadway-cast-of-hamilton-who-lives-who-dies-who-tells-your-story-lyrics",
+         "song_path":"/songs/2315101",
+         "image":"https://images.genius.com/e7d3cc1593a5c1521f6b504313f62333.1000x1000x1.jpg"
+      }
+   ]
+}
